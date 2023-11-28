@@ -1,0 +1,19 @@
+{
+  "name": "zikri/pbwl-project10",
+  "description": "Tugas pbwl-project10 Pemrograman Berbasis Web Lanjutan",
+  "type": "project",
+  "authors": [
+    {
+      "name": "zikri",
+      "email": "zakicool456@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "filp/whoops": "^2.14"
+  }
+}
